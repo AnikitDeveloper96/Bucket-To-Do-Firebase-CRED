@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "49630497711",
+    "project_id": "bucket-app-97f03",
+    "storage_bucket": "bucket-app-97f03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49630497711:android:087275de3ae4201d857d5a",
+        "android_client_info": {
+          "package_name": "com.bucketapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49630497711-njb4fddbdqo8nfqcjr4t5k7cnfcph9lk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bucketapp",
+            "certificate_hash": "2356c20aa203f0cc228e3924e745a164e9b4843e"
+          }
+        },
+        {
+          "client_id": "49630497711-b791442bu5g0d8881q5nt7hls64av3q9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzxHQGEo2mHe_Qx_dtX7LCUiNVKr5nMkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49630497711-b791442bu5g0d8881q5nt7hls64av3q9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
