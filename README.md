@@ -1,3 +1,4 @@
+
 ## 🎉 **Introducing Bucket** - A Flutter-Powered Todo App! 🎉
 
 We’re thrilled to unveil **Bucket**, your new favorite Todo app crafted with Flutter and Firebase! 🚀📱✨
@@ -27,7 +28,6 @@ We’re thrilled to unveil **Bucket**, your new favorite Todo app crafted with F
 <img height="480px" src="screenshots/9.jpg">
 
 ### 👨‍💻 **Created & Maintained By:**
-
 [Anikit Grover](https://github.com/AnikitDeveloper96)
 
 ### 🙌 **Show Your Support:**
@@ -38,7 +38,3 @@ We’re thrilled to unveil **Bucket**, your new favorite Todo app crafted with F
 Your feedback and contributions are invaluable! Feel free to reach out with suggestions or if you’d like to contribute to the project. Together, we can make task management a delightful experience!
 
 Thank you for your support and enthusiasm! 🌍📲
-
----
-
-Feel free to adjust any sections as needed!
